@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently a MSc student at the University of Calgary.
+- 🔭 I’m currently a PhD student at the University of Calgary.
 - 🌱 My research focus is the UAV-assisted network deployment, Digital twin technology and ML. 
 - 👯 I’m looking to collaborate on publications of intelligent network mangement, 6G enabling technologies, generative AI ...
 - 📫 How to reach me: email is preferred.
